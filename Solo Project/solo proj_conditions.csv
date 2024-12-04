@@ -1,0 +1,11 @@
+StimObject,stimImage,StimCatergory,correctAns
+rock,images_soloproj\rock_img.jpg,inanimate,n
+cube,images_soloproj\cube_img.jpg,inanimate,n
+dog,images_soloproj\doggo_img.jpg,animate,m
+shoe,images_soloproj\shoe_img.jpg,inanimate,n
+truck,images_soloproj\truckkun_img.jpg,inanimate,n
+broom,images_soloproj\broom_img.jpg,inanimate,n
+man,images_soloproj\man_desert.jpg,animate,m
+grasshopper,images_soloproj\grasshopper_img.jpg,animate,m
+cow,images_soloproj\cow_img.jpg,animate,m
+butterfly,images_soloproj\butterfly_img.jpg,animate,m
